@@ -1,0 +1,24 @@
+{
+  "name": "ng-shortcuts",
+  "version": "1.0.0",
+  "description": "Apply shortcuts to your Angular application!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicada0014/ng-shortcuts.git"
+  },
+  "keywords": [
+    "ng",
+    "ng2",
+    "shortcut"
+  ],
+  "author": "youngtae kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cicada0014/ng-shortcuts/issues"
+  },
+  "homepage": "https://github.com/cicada0014/ng-shortcuts#readme"
+}
